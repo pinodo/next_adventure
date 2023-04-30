@@ -1,9 +1,9 @@
 import React from "react";
 
-export default function index() {
+export default function Page() {
   return (
     <>
-      <div>login page</div>
+      <h1>Login Page</h1>
       <a href="/main">GOTO MAIN</a>
     </>
   );
